@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-30T17:29:14.610Z",
+  "updatedAt": "2026-10-31T16:33:29.126Z",
   "items": [
+    {
+      "title": "Gobierno activa S/2 000 millones en garantías para proteger a las MYPE ante el Fenómeno El Niño",
+      "url": "https://www.gob.pe/institucion/mef/noticias/1466557-gobierno-activa-s-2-000-millones-en-garantias-para-proteger-a-las-mype-ante-el-fenomeno-el-nino",
+      "source": "MEF",
+      "publishedAt": "",
+      "summary": ""
+    },
     {
       "title": "MEF fortalece articulación público-privada para destrabar inversiones e impulsar el desarrollo productivo sostenible de la Amazonía",
       "url": "https://www.gob.pe/institucion/mef/noticias/1465917-mef-fortalece-articulacion-publico-privada-para-destrabar-inversiones-e-impulsar-el-desarrollo-productivo-sostenible-de-la-amazonia",
@@ -18,6 +25,13 @@
     {
       "title": "MEF saluda aprobación del crédito suplementario por S/8228 millones para garantizar la continuidad de obras y servicios esenciales",
       "url": "https://www.gob.pe/institucion/mef/noticias/1465332-mef-saluda-aprobacion-del-credito-suplementario-por-s-8228-millones-para-garantizar-la-continuidad-de-obras-y-servicios-esenciales",
+      "source": "MEF",
+      "publishedAt": "",
+      "summary": ""
+    },
+    {
+      "title": "Gobierno autoriza uso de mecanismo de Obras por Impuestos para el mantenimiento de colegios ante presencia del FEN",
+      "url": "https://www.gob.pe/institucion/mef/noticias/1466578-gobierno-autoriza-uso-de-mecanismo-de-obras-por-impuestos-para-el-mantenimiento-de-colegios-ante-presencia-del-fen",
       "source": "MEF",
       "publishedAt": "",
       "summary": ""
@@ -58,20 +72,6 @@
       "summary": ""
     },
     {
-      "title": "MEF aprueba la nueva Estrategia de Gestión Financiera del Riesgo de Desastres",
-      "url": "https://www.gob.pe/institucion/mef/noticias/1461999-mef-aprueba-la-nueva-estrategia-de-gestion-financiera-del-riesgo-de-desastres",
-      "source": "MEF",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "Ministro Elmer Cuba: Política contracíclica está orientada a mantener y fortalecer el empleo",
-      "url": "https://www.gob.pe/institucion/mef/noticias/1461805-ministro-elmer-cuba-politica-contraciclica-esta-orientada-a-mantener-y-fortalecer-el-empleo",
-      "source": "MEF",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
       "title": "Lambayeque: cerca de 4 mil vacantes en feria de empleo marcarán visita del ministro de Trabajo, Juan Sheput",
       "url": "https://www.gob.pe/institucion/mtpe/noticias/1465110-lambayeque-cerca-de-4-mil-vacantes-en-feria-de-empleo-marcaran-visita-del-ministro-de-trabajo-juan-sheput",
       "source": "MTPE",
@@ -95,6 +95,13 @@
     {
       "title": "Gobierno generará más de 35 mil empleos temporales en cerca de 700 distritos del país",
       "url": "https://www.gob.pe/institucion/mtpe/noticias/1461788-gobierno-generara-mas-de-35-mil-empleos-temporales-en-cerca-de-700-distritos-del-pais",
+      "source": "MTPE",
+      "publishedAt": "",
+      "summary": ""
+    },
+    {
+      "title": "Ministerio de Trabajo impulsa propuestas con IA para transformar la experiencia de los trabajadores en nuevas oportunidades de empleo",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1466580-ministerio-de-trabajo-impulsa-propuestas-con-ia-para-transformar-la-experiencia-de-los-trabajadores-en-nuevas-oportunidades-de-empleo",
       "source": "MTPE",
       "publishedAt": "",
       "summary": ""
@@ -135,9 +142,9 @@
       "summary": ""
     },
     {
-      "title": "Ministro Juan Sheput: “Gobierno impulsará capacitación en construcción civil para que más trabajadores accedan a empleos en nuevas obras”",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1461166-ministro-juan-sheput-gobierno-impulsara-capacitacion-en-construccion-civil-para-que-mas-trabajadores-accedan-a-empleos-en-nuevas-obras",
-      "source": "MTPE",
+      "title": "Sunat rematará 29 bienes inmuebles valorizados en más de S/ 8.8 millones",
+      "url": "https://www.gob.pe/institucion/sunat/noticias/1465990-sunat-rematara-29-bienes-inmuebles-valorizados-en-mas-de-s-8-8-millones",
+      "source": "SUNAT",
       "publishedAt": "",
       "summary": ""
     },
@@ -200,13 +207,6 @@
     {
       "title": "SUNAT: ingresos tributarios aumentaron 17,3% en agosto",
       "url": "https://www.gob.pe/institucion/sunat/noticias/1441473-sunat-ingresos-tributarios-aumentaron-17-3-en-agosto",
-      "source": "SUNAT",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "Cerca de 60 mil contribuyentes presentarán declaración del Beneficiario Final",
-      "url": "https://www.gob.pe/institucion/sunat/noticias/1433400-cerca-de-60-mil-contribuyentes-presentaran-declaracion-del-beneficiario-final",
       "source": "SUNAT",
       "publishedAt": "",
       "summary": ""
