@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-05T19:15:14.730Z",
+  "updatedAt": "2026-11-06T18:41:54.078Z",
   "items": [
+    {
+      "title": "Coordinación MEF-Congreso permitirá que el Presupuesto Público 2027 se apruebe antes del plazo límite",
+      "url": "https://www.gob.pe/institucion/mef/noticias/1470353-coordinacion-mef-congreso-permitira-que-el-presupuesto-publico-2027-se-apruebe-antes-del-plazo-limite",
+      "source": "MEF",
+      "publishedAt": "",
+      "summary": ""
+    },
     {
       "title": "MEF publica Guía de Orientación al Ciudadano que explica las prioridades y el financiamiento del Proyecto de Presupuesto Público 2027",
       "url": "https://www.gob.pe/institucion/mef/noticias/1466753-mef-publica-guia-de-orientacion-al-ciudadano-que-explica-las-prioridades-y-el-financiamiento-del-proyecto-de-presupuesto-publico-2027",
@@ -65,9 +72,16 @@
       "summary": ""
     },
     {
-      "title": "Ministro Elmer Cuba destacó las fortalezas de la economía peruana ante gremios empresariales de Estados Unidos reunidos por el inPerú",
-      "url": "https://www.gob.pe/institucion/mef/noticias/1464678-ministro-elmer-cuba-destaco-las-fortalezas-de-la-economia-peruana-ante-gremios-empresariales-de-estados-unidos-reunidos-por-el-inperu",
-      "source": "MEF",
+      "title": "Sector Trabajo impulsó más de 50 mil empleos temporales en los primeros 100 días del Gobierno de la presidenta Keiko Fujimori",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1470583-sector-trabajo-impulso-mas-de-50-mil-empleos-temporales-en-los-primeros-100-dias-del-gobierno-de-la-presidenta-keiko-fujimori",
+      "source": "MTPE",
+      "publishedAt": "",
+      "summary": ""
+    },
+    {
+      "title": "Ministro Sheput: “El desafío no es solo generar empleo, sino garantizar trabajo formal, digno y con derechos”",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1469839-ministro-sheput-el-desafio-no-es-solo-generar-empleo-sino-garantizar-trabajo-formal-digno-y-con-derechos",
+      "source": "MTPE",
       "publishedAt": "",
       "summary": ""
     },
@@ -81,20 +95,6 @@
     {
       "title": "Ministro Juan Sheput: Inicio de obras de la Torre Trecca demuestra que la confianza en el gobierno se traduce en inversión para la salud",
       "url": "https://www.gob.pe/institucion/mtpe/noticias/1468341-ministro-juan-sheput-inicio-de-obras-de-la-torre-trecca-demuestra-que-la-confianza-en-el-gobierno-se-traduce-en-inversion-para-la-salud",
-      "source": "MTPE",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "Lambayeque: cerca de 4 mil vacantes en feria de empleo marcarán visita del ministro de Trabajo, Juan Sheput",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1465110-lambayeque-cerca-de-4-mil-vacantes-en-feria-de-empleo-marcaran-visita-del-ministro-de-trabajo-juan-sheput",
-      "source": "MTPE",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "Ministro Sheput: “El desafío no es solo generar empleo, sino garantizar trabajo formal, digno y con derechos”",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1469839-ministro-sheput-el-desafio-no-es-solo-generar-empleo-sino-garantizar-trabajo-formal-digno-y-con-derechos",
       "source": "MTPE",
       "publishedAt": "",
       "summary": ""
@@ -128,15 +128,15 @@
       "summary": ""
     },
     {
-      "title": "Ministro Juan Sheput: Megaferia del Empleo amplía a 8 000 las vacantes de trabajo formal en San Juan de Lurigancho",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1462665-ministro-juan-sheput-megaferia-del-empleo-amplia-a-8-000-las-vacantes-de-trabajo-formal-en-san-juan-de-lurigancho",
+      "title": "Lambayeque: cerca de 4 mil vacantes en feria de empleo marcarán visita del ministro de Trabajo, Juan Sheput",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1465110-lambayeque-cerca-de-4-mil-vacantes-en-feria-de-empleo-marcaran-visita-del-ministro-de-trabajo-juan-sheput",
       "source": "MTPE",
       "publishedAt": "",
       "summary": ""
     },
     {
-      "title": "Más de 115 empresas buscarán personal en San Juan de Lurigancho: conoce los puestos disponibles",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1462277-mas-de-115-empresas-buscaran-personal-en-san-juan-de-lurigancho-conoce-los-puestos-disponibles",
+      "title": "Ministro Juan Sheput: Megaferia del Empleo amplía a 8 000 las vacantes de trabajo formal en San Juan de Lurigancho",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1462665-ministro-juan-sheput-megaferia-del-empleo-amplia-a-8-000-las-vacantes-de-trabajo-formal-en-san-juan-de-lurigancho",
       "source": "MTPE",
       "publishedAt": "",
       "summary": ""
