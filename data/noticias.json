@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-06T18:41:54.078Z",
+  "updatedAt": "2026-11-07T17:12:19.270Z",
   "items": [
+    {
+      "title": "MEF: Perú podría concretar su ingreso a la OCDE en el segundo semestre de 2028",
+      "url": "https://www.gob.pe/institucion/mef/noticias/1470870-mef-peru-podria-concretar-su-ingreso-a-la-ocde-en-el-segundo-semestre-de-2028",
+      "source": "MEF",
+      "publishedAt": "",
+      "summary": ""
+    },
     {
       "title": "Coordinación MEF-Congreso permitirá que el Presupuesto Público 2027 se apruebe antes del plazo límite",
       "url": "https://www.gob.pe/institucion/mef/noticias/1470353-coordinacion-mef-congreso-permitira-que-el-presupuesto-publico-2027-se-apruebe-antes-del-plazo-limite",
@@ -65,9 +72,16 @@
       "summary": ""
     },
     {
-      "title": "Contrataciones para atender la inminencia o la ocurrencia de situaciones de emergencia o desastre",
-      "url": "https://www.gob.pe/institucion/mef/noticias/1465089-contrataciones-para-atender-la-inminencia-o-la-ocurrencia-de-situaciones-de-emergencia-o-desastre",
-      "source": "MEF",
+      "title": "Más de 24 mil personas accedieron a empleos formales con apoyo del MTPE en los primeros 100 días del Gobierno",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1471041-mas-de-24-mil-personas-accedieron-a-empleos-formales-con-apoyo-del-mtpe-en-los-primeros-100-dias-del-gobierno",
+      "source": "MTPE",
+      "publishedAt": "",
+      "summary": ""
+    },
+    {
+      "title": "Ministro Juan Sheput anuncia trabajos para reducir riesgos ante El Niño y generar empleo temporal en SJL y Santa Eulalia",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1470807-ministro-juan-sheput-anuncia-trabajos-para-reducir-riesgos-ante-el-nino-y-generar-empleo-temporal-en-sjl-y-santa-eulalia",
+      "source": "MTPE",
       "publishedAt": "",
       "summary": ""
     },
@@ -123,20 +137,6 @@
     {
       "title": "Lambayeque: Ministerio de Trabajo destina más de S/6 millones para generar cerca de 1 500 empleos temporales en 31 distritos",
       "url": "https://www.gob.pe/institucion/mtpe/noticias/1465631-lambayeque-ministerio-de-trabajo-destina-mas-de-s-6-millones-para-generar-cerca-de-1-500-empleos-temporales-en-31-distritos",
-      "source": "MTPE",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "Lambayeque: cerca de 4 mil vacantes en feria de empleo marcarán visita del ministro de Trabajo, Juan Sheput",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1465110-lambayeque-cerca-de-4-mil-vacantes-en-feria-de-empleo-marcaran-visita-del-ministro-de-trabajo-juan-sheput",
-      "source": "MTPE",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "Ministro Juan Sheput: Megaferia del Empleo amplía a 8 000 las vacantes de trabajo formal en San Juan de Lurigancho",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1462665-ministro-juan-sheput-megaferia-del-empleo-amplia-a-8-000-las-vacantes-de-trabajo-formal-en-san-juan-de-lurigancho",
       "source": "MTPE",
       "publishedAt": "",
       "summary": ""
