@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-10T19:05:09.578Z",
+  "updatedAt": "2026-11-11T19:01:45.166Z",
   "items": [
+    {
+      "title": "MEF impulsa una nueva forma de programar y priorizar el gasto público",
+      "url": "https://www.gob.pe/institucion/mef/noticias/1472477-mef-impulsa-una-nueva-forma-de-programar-y-priorizar-el-gasto-publico",
+      "source": "MEF",
+      "publishedAt": "",
+      "summary": ""
+    },
+    {
+      "title": "MEF y sus organismos adscritos son reconocidos por sus buenas prácticas de gestión pública en beneficio de la ciudadanía",
+      "url": "https://www.gob.pe/institucion/mef/noticias/1472211-mef-y-sus-organismos-adscritos-son-reconocidos-por-sus-buenas-practicas-de-gestion-publica-en-beneficio-de-la-ciudadania",
+      "source": "MEF",
+      "publishedAt": "",
+      "summary": ""
+    },
     {
       "title": "Perú realizó la emisión de bonos en dólares más grande de su historia por US$ 4 500 millones, cuya demanda superó los US$ 21 000 millones",
       "url": "https://www.gob.pe/institucion/mef/noticias/1471852-peru-realizo-la-emision-de-bonos-en-dolares-mas-grande-de-su-historia-por-us-4-500-millones-cuya-demanda-supero-los-us-21-000-millones",
@@ -58,16 +72,9 @@
       "summary": ""
     },
     {
-      "title": "MEF fortalece articulación público-privada para destrabar inversiones e impulsar el desarrollo productivo sostenible de la Amazonía",
-      "url": "https://www.gob.pe/institucion/mef/noticias/1465917-mef-fortalece-articulacion-publico-privada-para-destrabar-inversiones-e-impulsar-el-desarrollo-productivo-sostenible-de-la-amazonia",
-      "source": "MEF",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "Gobierno evalúa ampliar mecanismo de Obras por Impuestos para culminar proyectos públicos paralizados",
-      "url": "https://www.gob.pe/institucion/mef/noticias/1465794-gobierno-evalua-ampliar-mecanismo-de-obras-por-impuestos-para-culminar-proyectos-publicos-paralizados",
-      "source": "MEF",
+      "title": "MTPE: Mi Carrera gana premio nacional por ayudar a jóvenes a decidir qué estudiar con información gratuita y confiable",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1472365-mtpe-mi-carrera-gana-premio-nacional-por-ayudar-a-jovenes-a-decidir-que-estudiar-con-informacion-gratuita-y-confiable",
+      "source": "MTPE",
       "publishedAt": "",
       "summary": ""
     },
@@ -81,6 +88,13 @@
     {
       "title": "Ministro Sheput: En primeros 100 días, EsSalud mejoró el abastecimiento de medicamentos y fortaleció la atención especializada en regiones",
       "url": "https://www.gob.pe/institucion/mtpe/noticias/1471599-ministro-sheput-en-primeros-100-dias-essalud-mejoro-el-abastecimiento-de-medicamentos-y-fortalecio-la-atencion-especializada-en-regiones",
+      "source": "MTPE",
+      "publishedAt": "",
+      "summary": ""
+    },
+    {
+      "title": "Ministro Juan Sheput por viaje presidencial a APEC: “Dar al César lo que es del César y a Dios lo que es de Dios”",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1472539-ministro-juan-sheput-por-viaje-presidencial-a-apec-dar-al-cesar-lo-que-es-del-cesar-y-a-dios-lo-que-es-de-dios",
       "source": "MTPE",
       "publishedAt": "",
       "summary": ""
@@ -128,16 +142,16 @@
       "summary": ""
     },
     {
-      "title": "Diálogo impulsado por el Ministerio de Trabajo resuelve conflictos y beneficia a más de 53 mil trabajadores",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1468837-dialogo-impulsado-por-el-ministerio-de-trabajo-resuelve-conflictos-y-beneficia-a-mas-de-53-mil-trabajadores",
-      "source": "MTPE",
+      "title": "Sunat agilizará atención de más de 50 mil pasajeros que arribarán al país por visita del papa León XIV",
+      "url": "https://www.gob.pe/institucion/sunat/noticias/1472227-sunat-agilizara-atencion-de-mas-de-50-mil-pasajeros-que-arribaran-al-pais-por-visita-del-papa-leon-xiv",
+      "source": "SUNAT",
       "publishedAt": "",
       "summary": ""
     },
     {
-      "title": "Ministro Juan Sheput: Inicio de obras de la Torre Trecca demuestra que la confianza en el gobierno se traduce en inversión para la salud",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1468341-ministro-juan-sheput-inicio-de-obras-de-la-torre-trecca-demuestra-que-la-confianza-en-el-gobierno-se-traduce-en-inversion-para-la-salud",
-      "source": "MTPE",
+      "title": "Sunat: recaudación tributaria crece 14,6% en octubre",
+      "url": "https://www.gob.pe/institucion/sunat/noticias/1472213-sunat-recaudacion-tributaria-crece-14-6-en-octubre",
+      "source": "SUNAT",
       "publishedAt": "",
       "summary": ""
     },
@@ -193,20 +207,6 @@
     {
       "title": "Más de 980 mil docentes y estudiantes promueven formalización en la semana de la educación tributaria 2026",
       "url": "https://www.gob.pe/institucion/sunat/noticias/1457099-mas-de-980-mil-docentes-y-estudiantes-promueven-formalizacion-en-la-semana-de-la-educacion-tributaria-2026",
-      "source": "SUNAT",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "SUNAT: recaudación tributaria creció 18,3% en setiembre",
-      "url": "https://www.gob.pe/institucion/sunat/noticias/1457096-sunat-recaudacion-tributaria-crecio-18-3-en-setiembre",
-      "source": "SUNAT",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "Más de 85 mil ciudadanos se han inscrito para participar en sorteo virtual comprobantes de pago",
-      "url": "https://www.gob.pe/institucion/sunat/noticias/1451229-mas-de-85-mil-ciudadanos-se-han-inscrito-para-participar-en-sorteo-virtual-comprobantes-de-pago",
       "source": "SUNAT",
       "publishedAt": "",
       "summary": ""
