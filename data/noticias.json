@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-17T20:15:05.641Z",
+  "updatedAt": "2026-11-18T19:46:00.115Z",
   "items": [
+    {
+      "title": "MEF: Perú es uno de los países con un mejor manejo de deuda pública de Latinoamérica",
+      "url": "https://www.gob.pe/institucion/mef/noticias/1474890-mef-peru-es-uno-de-los-paises-con-un-mejor-manejo-de-deuda-publica-de-latinoamerica",
+      "source": "MEF",
+      "publishedAt": "",
+      "summary": ""
+    },
     {
       "title": "MEF destaca aprobación de tres medidas para fortalecer la prevención de desastres, la industria editorial y la transparencia tributaria",
       "url": "https://www.gob.pe/institucion/mef/noticias/1472763-mef-destaca-aprobacion-de-tres-medidas-para-fortalecer-la-prevencion-de-desastres-la-industria-editorial-y-la-transparencia-tributaria",
@@ -65,9 +72,9 @@
       "summary": ""
     },
     {
-      "title": "Gobierno autoriza uso de mecanismo de Obras por Impuestos para el mantenimiento de colegios ante presencia del FEN",
-      "url": "https://www.gob.pe/institucion/mef/noticias/1466578-gobierno-autoriza-uso-de-mecanismo-de-obras-por-impuestos-para-el-mantenimiento-de-colegios-ante-presencia-del-fen",
-      "source": "MEF",
+      "title": "Subsidio a las microempresas: Gobierno destina hasta S/ 29 millones para proteger más de 288 mil empleos formales",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1475094-subsidio-a-las-microempresas-gobierno-destina-hasta-s-29-millones-para-proteger-mas-de-288-mil-empleos-formales",
+      "source": "MTPE",
       "publishedAt": "",
       "summary": ""
     },
@@ -88,13 +95,6 @@
     {
       "title": "Capital semilla: qué es y cómo postular a este apoyo para iniciar o fortalecer tu negocio con el MTPE",
       "url": "https://www.gob.pe/institucion/mtpe/noticias/1473917-capital-semilla-que-es-y-como-postular-a-este-apoyo-para-iniciar-o-fortalecer-tu-negocio-con-el-mtpe",
-      "source": "MTPE",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "Ministerio de Trabajo propone cambios al teletrabajo en el sector público para asegurar la continuidad de los servicios",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1472891-ministerio-de-trabajo-propone-cambios-al-teletrabajo-en-el-sector-publico-para-asegurar-la-continuidad-de-los-servicios",
       "source": "MTPE",
       "publishedAt": "",
       "summary": ""
@@ -121,6 +121,13 @@
       "summary": ""
     },
     {
+      "title": "Ministerio de Trabajo propone cambios al teletrabajo en el sector público para asegurar la continuidad de los servicios",
+      "url": "https://www.gob.pe/institucion/mtpe/noticias/1472891-ministerio-de-trabajo-propone-cambios-al-teletrabajo-en-el-sector-publico-para-asegurar-la-continuidad-de-los-servicios",
+      "source": "MTPE",
+      "publishedAt": "",
+      "summary": ""
+    },
+    {
       "title": "Ministro Juan Sheput por viaje presidencial a APEC: “Dar al César lo que es del César y a Dios lo que es de Dios”",
       "url": "https://www.gob.pe/institucion/mtpe/noticias/1472539-ministro-juan-sheput-por-viaje-presidencial-a-apec-dar-al-cesar-lo-que-es-del-cesar-y-a-dios-lo-que-es-de-dios",
       "source": "MTPE",
@@ -135,9 +142,9 @@
       "summary": ""
     },
     {
-      "title": "En sus primeros 100 días, Gobierno impulsó mejoras salariales para más de 1,2 millones de trabajadores",
-      "url": "https://www.gob.pe/institucion/mtpe/noticias/1471939-en-sus-primeros-100-dias-gobierno-impulso-mejoras-salariales-para-mas-de-1-2-millones-de-trabajadores",
-      "source": "MTPE",
+      "title": "Sunat otorga facilidades tributarias para sector textil y confecciones y a los subsectores pesca y acuicultura",
+      "url": "https://www.gob.pe/institucion/sunat/noticias/1475074-sunat-otorga-facilidades-tributarias-para-sector-textil-y-confecciones-y-a-los-subsectores-pesca-y-acuicultura",
+      "source": "SUNAT",
       "publishedAt": "",
       "summary": ""
     },
@@ -200,13 +207,6 @@
     {
       "title": "Deuda tributaria total que contribuyentes le deben al estado supera los S/ 123 mil millones",
       "url": "https://www.gob.pe/institucion/sunat/noticias/1457115-deuda-tributaria-total-que-contribuyentes-le-deben-al-estado-supera-los-s-123-mil-millones",
-      "source": "SUNAT",
-      "publishedAt": "",
-      "summary": ""
-    },
-    {
-      "title": "Más de 980 mil docentes y estudiantes promueven formalización en la semana de la educación tributaria 2026",
-      "url": "https://www.gob.pe/institucion/sunat/noticias/1457099-mas-de-980-mil-docentes-y-estudiantes-promueven-formalizacion-en-la-semana-de-la-educacion-tributaria-2026",
       "source": "SUNAT",
       "publishedAt": "",
       "summary": ""
